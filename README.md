@@ -14,7 +14,7 @@ The framework emphasizes:
 - extensibility for future domain integration
 
 **Main JUGS repository:**  
-[PLACEHOLDER: https://github.com/.../jugs]
+[\[https://github.com/demianAdli/jugs]](https://github.com/demianAdli/jugs)
 
 ---
 
