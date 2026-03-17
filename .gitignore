@@ -1,0 +1,36 @@
+# Keep this file intentionally small:
+# this repository is expected to track datasets, results, and benchmarks.
+
+# OS / file explorer noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE settings
+.idea/
+.vscode/
+
+# Python cache / virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local environment / logs
+.env
+.env.*
+*.log
+
+# Local drafts and personal scratch files
+draft/
+my_*.py
+my_*.txt
