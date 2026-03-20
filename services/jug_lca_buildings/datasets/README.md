@@ -2,6 +2,8 @@
 
 This dataset contains GeoJSON files for buildings in Montreal, with sample sizes ranging from 1 to 500 buildings. These files are intended to be used as input datasets for `jug_lca_buildings`.
 
+Two files with 1 and 50 buildings are also available in the current folder as samples.
+
 ## Zenodo Record
 
 - Record: https://zenodo.org/records/19136407
